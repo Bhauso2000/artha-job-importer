@@ -192,4 +192,3 @@ npm run dev
 MIT
 
 ---
-
