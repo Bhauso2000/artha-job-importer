@@ -193,4 +193,3 @@ MIT
 
 ---
 
-Let me know if you'd like to auto-generate this `README.md` as a file or link it with GitHub Actions.
